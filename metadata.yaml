@@ -1,4 +1,8 @@
 _repo: The-Early-Cave-Men_50057
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50057-h/images/cover.jpg
 creator:
   author:
     agent_name: Dopp, Katharine Elizabeth
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '28405'
     url: http://www.gutenberg.org/2009/agents/28405
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50057#The-Early-Cave-Men
 gutenberg_issued: '2015-09-26'
 gutenberg_type: Text
 identifiers:
